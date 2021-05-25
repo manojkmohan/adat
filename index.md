@@ -16,8 +16,8 @@ This project supported by Adat Gramapanchayath With the help of different civic 
 ### About
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Avilable Map](https://i.imgur.com/poByqZw.png)
-[A Avilable Map from Local Development Models: Adat Grama Panchayat Thrissur District ;KILA (2014)](http://dspace.kila.ac.in/handle/123456789/77)
+![](https://i.imgur.com/poByqZw.png)
+[a Avilable Map from Local Development Models: Adat Grama Panchayat Thrissur District ;KILA (2014)](http://dspace.kila.ac.in/handle/123456789/77)
 
 ![](https://i.imgur.com/xAQfZzM.png)
 Current Map from OpenStreetMap. [Intractive Webmap Link](http://overpass-turbo.eu/map.html?Q=%5Bout%3Axml%5D%20%5Btimeout%3A500%5D%3B%0A%2F%2F%20fill%20in%20the%20name%20of%20a%20Panchayat%2FMunicipality%2FCorporation%0Aarea%5Bname%3DAdat%5D%5Badmin_level%3D8%5D-%3E.a%3B%0Arel%5Badmin_level%3D10%5D(area.a)%3B%0A(._%3B%3E%3B)%3B%0Aout%20meta%3B%3E%3Bout%20meta%20qt%3B)
